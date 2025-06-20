@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "quantity": 1,
+      "category": 4
+    },
+    {
+      "id": 2,
+      "name": "Bananas",
+      "quantity": 5,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "name": "Beef Steak",
+      "quantity": 1,
+      "category": 3
+    }
+  ]
+}

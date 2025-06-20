@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Vegetables",
+      "color": "#00FF80"
+    },
+    {
+      "id": 2,
+      "name": "Fruit",
+      "color": "#91FF00"
+    },
+    {
+      "id": 3,
+      "name": "Meat",
+      "color": "#FF6600"
+    },
+    {
+      "id": 4,
+      "name": "Dairy",
+      "color": "#00D0FF"
+    },
+    {
+      "id": 5,
+      "name": "Carbs",
+      "color": "#003CFF"
+    },
+    {
+      "id": 6,
+      "name": "Sweets",
+      "color": "#FF9500"
+    },
+    {
+      "id": 7,
+      "name": "Spices",
+      "color": "#FFBB00"
+    },
+    {
+      "id": 8,
+      "name": "Convenience",
+      "color": "#BF00FF"
+    },
+    {
+      "id": 9,
+      "name": "Hygiene",
+      "color": "#9500FF"
+    },
+    {
+      "id": 10,
+      "name": "Other",
+      "color": "#00E1FF"
+    }
+  ]
+}
